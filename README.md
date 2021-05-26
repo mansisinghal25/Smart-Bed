@@ -12,5 +12,5 @@ Our smart bed has a screen attached which displays this information every mornin
 
 
 Please check out the project website-
-https://sites.google.com/iiitd.ac.in/smartbed/links?authuser=1
+https://sites.google.com/iiitd.ac.in/smartbed/home
 
