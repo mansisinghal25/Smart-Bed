@@ -8,6 +8,9 @@ It also has a sleep detecting system. According to psychology, the more you move
 That's why our smart bed checks the movement of the person sleeping for the entire night and gives an approximate idea of how deep his/her sleep is every morning.
 Our smart bed has a screen attached which displays this information every morning.
 
-Project Website: https://sites.google.com/iiitd.ac.in/smartbed/links?authuser=1
-Project Proposal: https://docs.google.com/document/d/10_pIcSXjVdkpL6TyOU6RtYduqel1kyx1cQBOeSNKaWk/edit?ts=5da97256#
-Project Video link (with working demo): https://www.youtube.com/watch?v=1U1YvLkID7w&feature=youtu.be&ab_channel=MansiSinghal
+
+
+
+Please check out the project website!
+https://sites.google.com/iiitd.ac.in/smartbed/links?authuser=1
+
